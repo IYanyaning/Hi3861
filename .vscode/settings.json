@@ -1,0 +1,33 @@
+{
+    "files.associations": {
+        "mutex.h": "c",
+        "ATH20.C": "cpp",
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "wifiiot_i2c.h": "c",
+        "wifiiot_errno.h": "c",
+        "hi_partition_table.h": "c",
+        "netifapi.h": "c",
+        "string.h": "c",
+        "api_shell.h": "c",
+        "transport.h": "c",
+        "ip_addr.h": "c",
+        "cmsis_os2.h": "c",
+        "hi_wifi_api.h": "c",
+        "netdb.h": "c",
+        "mqttclient.h": "c",
+        "ohos_init.h": "c",
+        "fs.h": "c",
+        "fcntl.h": "c",
+        "iconv.h": "c",
+        "shm.h": "c",
+        "ipc.h": "c",
+        "wifi_device.h": "c",
+        "mqtt_utils.h": "c",
+        "hi_at.h": "c",
+        "wifiiot_gpio_ex.h": "c",
+        "wifiiot_adc.h": "c"
+    },
+    "cmake.sourceDirectory": "/home/chen/tools/sharefolder/code-1.0/third_party/curl/tests"
+}
